@@ -1,4 +1,4 @@
-# Backend
+# ML
 ## Guideline for git
 
    1. Форкаем данный репозиторий (В github)
